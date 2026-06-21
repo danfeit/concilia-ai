@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260519_231041",
+  "status": "error",
+  "duration_seconds": 0.1,
+  "stdout": "",
+  "stderr": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpa_0t7tbi.py\", line 321\n    log_data[\"estatisticas\"][\"apenas_\n                             ^\nSyntaxError: unterminated string literal (detected at line 321)\n",
+  "error": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpa_0t7tbi.py\", line 321\n    log_data[\"estatisticas\"][\"apenas_\n                             ^\nSyntaxError: unterminated string literal (detected at line 321)\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp45qqp0xr\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp45qqp0xr\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

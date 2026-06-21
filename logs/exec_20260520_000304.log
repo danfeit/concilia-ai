@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260520_000304",
+  "status": "error",
+  "duration_seconds": 1.14,
+  "stdout": "",
+  "stderr": "2026-05-20 00:03:05,000 - INFO - Iniciando processo de conciliação.\n2026-05-20 00:03:05,000 - INFO - Processando arquivo: data/razao_contabil_por_data-v2.xlsx\n2026-05-20 00:03:05,006 - INFO - Processando arquivo: data/extrato_bancario_por_data-v2.csv\n2026-05-20 00:03:05,022 - INFO - Salvando resultado da conciliação em: output/conciliacao_resultado.xlsx\n2026-05-20 00:03:05,022 - ERROR - Ocorreu um erro fatal no processo de conciliação: No module named 'xlsxwriter'\nTraceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmplxas4ys1.py\", line 195, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmplxas4ys1.py\", line 153, in main\n    with pd.ExcelWriter(OUTPUT_PATH, engine='xlsxwriter') as writer:\n         ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py\", line 197, in __init__\n    from xlsxwriter import Workbook\nModuleNotFoundError: No module named 'xlsxwriter'\n",
+  "error": "2026-05-20 00:03:05,000 - INFO - Iniciando processo de conciliação.\n2026-05-20 00:03:05,000 - INFO - Processando arquivo: data/razao_contabil_por_data-v2.xlsx\n2026-05-20 00:03:05,006 - INFO - Processando arquivo: data/extrato_bancario_por_data-v2.csv\n2026-05-20 00:03:05,022 - INFO - Salvando resultado da conciliação em: output/conciliacao_resultado.xlsx\n2026-05-20 00:03:05,022 - ERROR - Ocorreu um erro fatal no processo de conciliação: No module named 'xlsxwriter'\nTraceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmplxas4ys1.py\", line 195, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmplxas4ys1.py\", line 153, in main\n    with pd.ExcelWriter(OUTPUT_PATH, engine='xlsxwriter') as writer:\n         ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py\", line 197, in __init__\n    from xlsxwriter import Workbook\nModuleNotFoundError: No module named 'xlsxwriter'\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpldiammou\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpldiammou\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

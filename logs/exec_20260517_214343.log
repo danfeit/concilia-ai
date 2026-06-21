@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260517_214343",
+  "status": "error",
+  "duration_seconds": 1.11,
+  "stdout": "Iniciando processo de conciliação...\nERRO: KeyError - 'valor_a'\nProcesso concluído. Verifique os arquivos 'resultado_conciliacao.xlsx' e 'log_execucao.json'.\n",
+  "stderr": "",
+  "error": "Arquivo de saída não foi gerado pelo script.",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpgtb12hey\\razao_contabil_sistema (1).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpgtb12hey\\extrato_bancario_sistema.csv"
+  ],
+  "output_path": null
+}

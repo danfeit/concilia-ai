@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260520_004316",
+  "status": "error",
+  "duration_seconds": 0.08,
+  "stdout": "",
+  "stderr": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmp1h2_txfr.py\", line 42\n    encodings =\n               ^\nSyntaxError: invalid syntax\n",
+  "error": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmp1h2_txfr.py\", line 42\n    encodings =\n               ^\nSyntaxError: invalid syntax\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp5y435s65\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp5y435s65\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

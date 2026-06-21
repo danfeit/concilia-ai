@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260517_233102",
+  "status": "error",
+  "duration_seconds": 0.06,
+  "stdout": "",
+  "stderr": "",
+  "error": "Arquivo de saída não foi gerado pelo script.",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp46wlzm6f\\razao_contabil_sistema (1).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp46wlzm6f\\extrato_bancario_sistema.csv"
+  ],
+  "output_path": null
+}

@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260604_195036",
+  "status": "success",
+  "duration_seconds": 1.81,
+  "stdout": "",
+  "stderr": "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp4kg6q758.py:15: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"timestamp\": datetime.utcnow().isoformat() + \"Z\",\n",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp_krm2k9v\\Adiantamentosereembolsos.xlsx"
+  ],
+  "output_path": "outputs\\resultado_20260604_195036.xlsx"
+}

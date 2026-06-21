@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260520_000412",
+  "status": "success",
+  "duration_seconds": 0.92,
+  "stdout": "",
+  "stderr": "2026-05-20 00:04:13,305 - INFO - Iniciando processo de conciliação.\n2026-05-20 00:04:13,306 - INFO - Processando arquivo: C:\\Users\\danie\\AppData\\Local\\Temp\\tmpa2or6fsu\\razao_contabil_por_data-v2.xlsx\n2026-05-20 00:04:13,483 - INFO - Processando arquivo: C:\\Users\\danie\\AppData\\Local\\Temp\\tmpa2or6fsu\\extrato_bancario_por_data-v2.csv\nC:\\Users\\danie\\AppData\\Local\\Temp\\tmpuxx_lhm0.py:115: UserWarning: You are merging on int and float columns where the float values are not equal to their int representation.\n  df_conciliado = pd.merge(\n2026-05-20 00:04:13,521 - INFO - Salvando resultado da conciliação em: outputs\\resultado_20260520_000412.xlsx\n2026-05-20 00:04:13,553 - INFO - Processo de conciliação concluído com sucesso.\n",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpa2or6fsu\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpa2or6fsu\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": "outputs\\resultado_20260520_000412.xlsx"
+}

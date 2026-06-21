@@ -1,0 +1,21 @@
+{
+    "timestamp_inicio": "2026-05-19T23:38:48.020404",
+    "status": "FALHA",
+    "arquivos_entrada": [
+        "data/razao_contabil_por_data-v2.xlsx",
+        "data/extrato_bancario_por_data-v2.csv"
+    ],
+    "arquivos_lidos": [],
+    "erros": [
+        "Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx"
+    ],
+    "estatisticas": {
+        "total_registros_erp": 0,
+        "total_registros_banco": 0,
+        "conciliados_direto": 0,
+        "apenas_erp": 0,
+        "apenas_banco": 0
+    },
+    "timestamp_fim": "2026-05-19T23:38:48.029225",
+    "duracao_segundos": 0.008821
+}

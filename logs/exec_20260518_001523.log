@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260518_001523",
+  "status": "success",
+  "duration_seconds": 0.79,
+  "stdout": "",
+  "stderr": "",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp2y73a5ak\\razao_contabil_sistema (1).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp2y73a5ak\\extrato_bancario_sistema.csv"
+  ],
+  "output_path": "outputs\\resultado_20260518_001523.xlsx"
+}

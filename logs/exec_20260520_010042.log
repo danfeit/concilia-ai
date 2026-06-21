@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260520_010042",
+  "status": "error",
+  "duration_seconds": 0.07,
+  "stdout": "",
+  "stderr": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpujm69o7p.py\", line 7\n    do Banco.\")\n             ^\nSyntaxError: unterminated string literal (detected at line 7)\n",
+  "error": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpujm69o7p.py\", line 7\n    do Banco.\")\n             ^\nSyntaxError: unterminated string literal (detected at line 7)\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpk4dnpmkm\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpk4dnpmkm\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

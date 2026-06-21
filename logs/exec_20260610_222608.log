@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260610_222608",
+  "status": "success",
+  "duration_seconds": 21.4,
+  "stdout": "",
+  "stderr": "",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp_exd9tib\\civel1.xlsx"
+  ],
+  "output_path": "outputs\\resultado_20260610_222608.xlsx"
+}

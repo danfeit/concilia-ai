@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260520_002108",
+  "status": "error",
+  "duration_seconds": 0.15,
+  "stdout": "",
+  "stderr": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmp838955yf.py\", line 192\n    })\nSyntaxError: expected 'except' or 'finally' block\n",
+  "error": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmp838955yf.py\", line 192\n    })\nSyntaxError: expected 'except' or 'finally' block\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmputa1dory\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmputa1dory\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

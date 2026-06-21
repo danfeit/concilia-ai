@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260518_233357",
+  "status": "error",
+  "duration_seconds": 0.63,
+  "stdout": "",
+  "stderr": "",
+  "error": "Arquivo de saída não foi gerado pelo script.",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpetjrtj8r\\Itens (6).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpetjrtj8r\\Itens (5).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpetjrtj8r\\Adiantamentosereembolsos.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpetjrtj8r\\Itens (4).xlsx"
+  ],
+  "output_path": null
+}

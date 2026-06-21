@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260518_232913",
+  "status": "error",
+  "duration_seconds": 0.95,
+  "stdout": "2026-05-18 23:29:13,712 - INFO - Iniciando processo de conciliação...\n2026-05-18 23:29:13,713 - INFO - Processando arquivo: itens (6).xlsx\n2026-05-18 23:29:13,881 - INFO - Processando arquivo: itens (5).xlsx\n2026-05-18 23:29:13,886 - INFO - Processando arquivo: adiantamentosereembolsos.xlsx\n2026-05-18 23:29:13,900 - INFO - Processando arquivo: itens (4).xlsx\n2026-05-18 23:29:13,926 - INFO - Normalizando e higienizando os dados...\n2026-05-18 23:29:13,933 - INFO - Agregando valores dos itens...\n2026-05-18 23:29:13,965 - INFO - Executando a conciliação (merge)...\n2026-05-18 23:29:13,981 - INFO - Gerando arquivo de saída em: outputs\\resultado_20260518_232913.xlsx\n2026-05-18 23:29:13,983 - ERROR - Ocorreu um erro crítico durante a execução.\nTraceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpl7btqhy6.py\", line 205, in main\n    with pd.ExcelWriter(OUTPUT_PATH, engine='xlsxwriter') as writer:\n         ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py\", line 197, in __init__\n    from xlsxwriter import Workbook\nModuleNotFoundError: No module named 'xlsxwriter'\n2026-05-18 23:29:13,994 - INFO - Log de execução salvo em: logs\\exec_20260518_232913.log\n",
+  "stderr": "",
+  "error": "Arquivo de saída não foi gerado pelo script.",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpucz05srz\\Itens (6).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpucz05srz\\Itens (5).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpucz05srz\\Adiantamentosereembolsos.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpucz05srz\\Itens (4).xlsx"
+  ],
+  "output_path": null
+}

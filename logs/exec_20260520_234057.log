@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260520_234057",
+  "status": "success",
+  "duration_seconds": 1.21,
+  "stdout": "Conciliação concluída com sucesso!\n",
+  "stderr": "",
+  "error": null,
+  "input_files": [
+    "C:\\Prof\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Prof\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": "outputs\\resultado_20260520_234057.xlsx"
+}

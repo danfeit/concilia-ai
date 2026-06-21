@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260519_232909",
+  "status": "error",
+  "duration_seconds": 0.95,
+  "stdout": "",
+  "stderr": "2026-05-19 23:29:09,936 - INFO - Processando arquivo: data/razao_contabil_por_data-v2.xlsx\n2026-05-19 23:29:09,943 - ERROR - Erro ao ler ou preparar o arquivo data/razao_contabil_por_data-v2.xlsx: Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx\n2026-05-19 23:29:09,944 - ERROR - Uma falha crítica ocorreu: Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx\nTraceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpq9_49b53.py\", line 230, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpq9_49b53.py\", line 153, in main\n    df_temp = read_and_prepare_data(file)\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpq9_49b53.py\", line 107, in read_and_prepare_data\n    raise ValueError(f\"Colunas essenciais 'data' ou 'valor' não encontradas em {file_path}\")\nValueError: Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx\n",
+  "error": "2026-05-19 23:29:09,936 - INFO - Processando arquivo: data/razao_contabil_por_data-v2.xlsx\n2026-05-19 23:29:09,943 - ERROR - Erro ao ler ou preparar o arquivo data/razao_contabil_por_data-v2.xlsx: Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx\n2026-05-19 23:29:09,944 - ERROR - Uma falha crítica ocorreu: Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx\nTraceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpq9_49b53.py\", line 230, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpq9_49b53.py\", line 153, in main\n    df_temp = read_and_prepare_data(file)\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpq9_49b53.py\", line 107, in read_and_prepare_data\n    raise ValueError(f\"Colunas essenciais 'data' ou 'valor' não encontradas em {file_path}\")\nValueError: Colunas essenciais 'data' ou 'valor' não encontradas em data/razao_contabil_por_data-v2.xlsx\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp7vikbkjr\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp7vikbkjr\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

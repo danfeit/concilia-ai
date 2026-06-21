@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260517_233257",
+  "status": "error",
+  "duration_seconds": 0.82,
+  "stdout": "Ocorreu um erro durante a execução: No module named 'xlsxwriter'\n",
+  "stderr": "Traceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpljuup75s.py\", line 128, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpljuup75s.py\", line 112, in main\n    with pd.ExcelWriter(OUTPUT_PATH, engine='xlsxwriter') as writer:\n         ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\danie\\AppData\\Roaming\\Python\\Python314\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py\", line 197, in __init__\n    from xlsxwriter import Workbook\nModuleNotFoundError: No module named 'xlsxwriter'\n",
+  "error": "Traceback (most recent call last):\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpljuup75s.py\", line 128, in <module>\n    main()\n    ~~~~^^\n  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmpljuup75s.py\", line 112, in main\n    with pd.ExcelWriter(OUTPUT_PATH, engine='xlsxwriter') as writer:\n         ~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\danie\\AppData\\Roaming\\Python\\Python314\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py\", line 197, in __init__\n    from xlsxwriter import Workbook\nModuleNotFoundError: No module named 'xlsxwriter'\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpefs1sum5\\razao_contabil_sistema (1).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpefs1sum5\\extrato_bancario_sistema.csv"
+  ],
+  "output_path": null
+}

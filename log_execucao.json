@@ -1,0 +1,36 @@
+{
+    "timestamp_inicio": "2026-05-17T21:49:57.519185",
+    "status_execucao": "FALHA",
+    "arquivos_processados": [
+        "extrato_bancario_sistema.csv",
+        "razao_contabil_sistema.xlsx"
+    ],
+    "estatisticas_entrada": {
+        "extrato_bancario_sistema.csv": {
+            "linhas_lidas": 4,
+            "colunas_originais": [
+                "Chave_Conciliacao",
+                "Data_Lancamento",
+                "Valor_Original",
+                "Historico_Banco"
+            ]
+        },
+        "razao_contabil_sistema.xlsx": {
+            "linhas_lidas": 4,
+            "colunas_originais": [
+                "Chave Conciliação",
+                "Data Lançamento",
+                "Valor (R$)",
+                "Histórico Contábil"
+            ]
+        }
+    },
+    "estatisticas_conciliacao": {},
+    "erros": [
+        {
+            "tipo": "KeyError",
+            "mensagem": "'valor_a'"
+        }
+    ],
+    "timestamp_fim": "2026-05-17T21:49:57.541006"
+}

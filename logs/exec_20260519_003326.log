@@ -1,0 +1,15 @@
+{
+  "timestamp": "20260519_003326",
+  "status": "success",
+  "duration_seconds": 0.94,
+  "stdout": "2026-05-19 00:33:26,775 - INFO - Iniciando processo de conciliação...\n2026-05-19 00:33:26,776 - INFO - Processando arquivo: adiantamentosereembolsos.xlsx\n2026-05-19 00:33:26,948 - INFO - Processando arquivo: itens (4).xlsx\n2026-05-19 00:33:26,965 - INFO - Processando arquivo: itens (5).xlsx\n2026-05-19 00:33:26,979 - INFO - Processando arquivo: itens (6).xlsx\n2026-05-19 00:33:26,996 - INFO - Normalizando e higienizando os dados...\n2026-05-19 00:33:27,000 - INFO - Agregando valores dos itens...\n2026-05-19 00:33:27,008 - INFO - Realizando a conciliação dos dados...\n2026-05-19 00:33:27,012 - INFO - Gerando arquivo de saída em: outputs\\resultado_20260519_003326.xlsx\n2026-05-19 00:33:27,058 - INFO - Processo de conciliação concluído com sucesso.\n",
+  "stderr": "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpkqotm18n.py:157: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\nThe behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n\nFor example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n\n\n  df_final['Valor_Adiantamento'].fillna(0, inplace=True)\nC:\\Users\\danie\\AppData\\Local\\Temp\\tmpkqotm18n.py:158: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\nThe behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n\nFor example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n\n\n  df_final['Valor_Total_Itens'].fillna(0, inplace=True)\n",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp7emgp_ah\\Adiantamentosereembolsos.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp7emgp_ah\\Itens (4).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp7emgp_ah\\Itens (5).xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmp7emgp_ah\\Itens (6).xlsx"
+  ],
+  "output_path": "outputs\\resultado_20260519_003326.xlsx"
+}

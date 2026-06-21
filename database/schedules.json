@@ -1,0 +1,40 @@
+[
+  {
+    "id": "20260520235444",
+    "workflow_id": 7,
+    "workflow_name": "ultima de hoje",
+    "files": [
+      {
+        "expected_name": "razao_contabil_por_data-v2.xlsx",
+        "filepath": "C:\\Prof\\razao_contabil_por_data-v2.xlsx",
+        "frequency": "data_especifica",
+        "frequency_detail": "2026-05-20"
+      },
+      {
+        "expected_name": "extrato_bancario_por_data-v2.csv",
+        "filepath": "C:\\Prof\\extrato_bancario_por_data-v2.csv",
+        "frequency": "data_especifica",
+        "frequency_detail": "2026-05-20"
+      }
+    ],
+    "time": "23:55",
+    "active": true,
+    "last_run": ""
+  },
+  {
+    "id": "20260604191649",
+    "workflow_id": 8,
+    "workflow_name": "Primeiro ETL Paulo Reis",
+    "files": [
+      {
+        "expected_name": "Adiantamentosereembolsos.xlsx",
+        "filepath": "C:\\Prof\\",
+        "frequency": "diario",
+        "frequency_detail": ""
+      }
+    ],
+    "time": "19:30",
+    "active": true,
+    "last_run": ""
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260604_230843",
+  "status": "success",
+  "duration_seconds": 1.56,
+  "stdout": "",
+  "stderr": "",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmptpqiu7na\\civel1.xlsx"
+  ],
+  "output_path": "outputs\\resultado_20260604_230843.xlsx"
+}

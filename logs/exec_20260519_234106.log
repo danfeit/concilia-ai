@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260519_234106",
+  "status": "error",
+  "duration_seconds": 0.09,
+  "stdout": "",
+  "stderr": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmp09oaa3xu.py\", line 28\n    \"Data Lançamento\": [\"04/05/2026\\\n                        ^\nSyntaxError: unterminated string literal (detected at line 28)\n",
+  "error": "  File \"C:\\Users\\danie\\AppData\\Local\\Temp\\tmp09oaa3xu.py\", line 28\n    \"Data Lançamento\": [\"04/05/2026\\\n                        ^\nSyntaxError: unterminated string literal (detected at line 28)\n",
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpsci8pqz8\\razao_contabil_por_data-v2.xlsx",
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpsci8pqz8\\extrato_bancario_por_data-v2.csv"
+  ],
+  "output_path": null
+}

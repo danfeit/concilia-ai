@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260604_220114",
+  "status": "success",
+  "duration_seconds": 2.39,
+  "stdout": "",
+  "stderr": "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpkaxsextt.py:113: UserWarning: The argument 'infer_datetime_format' is deprecated and will be removed in a future version. A strict version of it is now the default, see https://pandas.pydata.org/pdeps/0004-consistent-to-datetime-parsing.html. You can safely remove this argument.\n  return pd.to_datetime(series, errors=\"coerce\", infer_datetime_format=True)\nC:\\Users\\danie\\AppData\\Local\\Temp\\tmpkaxsextt.py:113: UserWarning: The argument 'infer_datetime_format' is deprecated and will be removed in a future version. A strict version of it is now the default, see https://pandas.pydata.org/pdeps/0004-consistent-to-datetime-parsing.html. You can safely remove this argument.\n  return pd.to_datetime(series, errors=\"coerce\", infer_datetime_format=True)\nC:\\Users\\danie\\AppData\\Local\\Temp\\tmpkaxsextt.py:113: UserWarning: The argument 'infer_datetime_format' is deprecated and will be removed in a future version. A strict version of it is now the default, see https://pandas.pydata.org/pdeps/0004-consistent-to-datetime-parsing.html. You can safely remove this argument.\n  return pd.to_datetime(series, errors=\"coerce\", infer_datetime_format=True)\nC:\\Users\\danie\\AppData\\Local\\Temp\\tmpkaxsextt.py:113: UserWarning: The argument 'infer_datetime_format' is deprecated and will be removed in a future version. A strict version of it is now the default, see https://pandas.pydata.org/pdeps/0004-consistent-to-datetime-parsing.html. You can safely remove this argument.\n  return pd.to_datetime(series, errors=\"coerce\", infer_datetime_format=True)\nC:\\Users\\danie\\AppData\\Local\\Temp\\tmpkaxsextt.py:102: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).\n  \"timestamp\": datetime.utcnow().isoformat(),\n",
+  "error": null,
+  "input_files": [
+    "C:\\Users\\danie\\AppData\\Local\\Temp\\tmpqojxnbl3\\civel1.xlsx"
+  ],
+  "output_path": "outputs\\resultado_20260604_220114.xlsx"
+}
