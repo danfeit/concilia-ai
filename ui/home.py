@@ -47,10 +47,10 @@ def render():
     # ── Hero ─────────────────────────────────────────────────────────────────
     col_logo, col_text = st.columns([1, 4])
     with col_text:
-        st.markdown('<div class="hero-title"><span>Safra</span> Concilia</div>', unsafe_allow_html=True)
+        st.markdown('<div class="hero-title"><span>KoreBI</span> Concilia</div>', unsafe_allow_html=True)
         st.markdown(
             "<p style='color:#4B5563; font-size:1.15rem; font-family: \"Inter\", sans-serif;'>"
-            "Conciliação inteligente de dados assistida por IA — "
+            "Conciliação e Automação inteligente de dados assistida por IA — "
             "sem código, sem planilhas manuais, com rastreabilidade total.</p>",
             unsafe_allow_html=True,
         )

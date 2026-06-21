@@ -7,7 +7,7 @@ import streamlit as st
 
 # Configuração da página — deve ser a primeira chamada Streamlit
 st.set_page_config(
-    page_title="ConciliaAI",
+    page_title="KoreBI",
     page_icon="🔀",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -194,7 +194,7 @@ with st.sidebar:
     st.markdown("""
     <div style="padding:1.2rem 0.5rem 1rem; border-bottom: 1px solid rgba(197,168,128,0.2); margin-bottom: 1rem;">
         <div style="font-family:'Outfit', sans-serif; font-size:1.65rem; font-weight:800; color:#FFFFFF; display:flex; align-items:center; gap: 8px;">
-            <span style="color:#C5A880;">Safra</span> Concilia
+            <span style="color:#C5A880;">KoreBI</span> ConcilIA
         </div>
         <div style="color:#E5E7EB; font-family:'Inter', sans-serif; font-size:0.7rem; letter-spacing: 0.12em; text-transform: uppercase; margin-top:0.2rem;">Intelligent Operations</div>
     </div>
